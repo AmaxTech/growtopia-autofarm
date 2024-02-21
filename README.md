@@ -1,2 +1,8 @@
-# growtopia-autofarm
-Autofarming tool for Growtopia. Made for BFG but can be used for other stuff also. I will include a short YT showcase, so you can see what my program does.
+# Amax Autofarm V4.30
+                        
+Works in Growtopia V4.50
+Updated to V4.30 ---> 17.2.24
+
+### How to Download and Install
+            
+Click on "releases" on the right side of the screen.
