@@ -36,6 +36,6 @@ step 6 --> /farm to stop :)
 Please note that this program also includes autocollect now, added in the V4.3 update of the program
 /Autocollect to enable (choose between 500-1000ms to be safe)
           
-Youtube showcase: https://youtu.be/zxxpUGjJw7E
+Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
 Enjoy!
