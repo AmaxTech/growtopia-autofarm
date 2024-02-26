@@ -31,7 +31,7 @@ step 2 --> Open Growtopia
 step 3 --> Pile up farmables in a big pile, or use a magplant for example (for longer farming sessions more than just a few blocks, you can do with less also)
 step 4 --> /set to choose a block to place and break from your inventory
 step 5 --> /farm to start placing and breaking (2 blocks in the direction your facing)
-step 6 --> /farm to stop :)
+step 6 --> /farm to stop it :)
                   
 Please note that this program also includes autocollect now, added in the V4.3 update of the program
 /Autocollect to enable (choose between 500-1000ms to be safe)
