@@ -38,4 +38,4 @@ Please note that this program also includes autocollect now, added in the V4.3 u
           
 Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
-Enjoy effortless farming :)
+Enjoy effortless farming!
