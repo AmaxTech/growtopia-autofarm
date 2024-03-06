@@ -1,6 +1,6 @@
 # Amax Autofarm V4.30
                         
-Works in Growtopia V4.50
+Works in Growtopia V4.51
 Updated to V4.30 ---> 17.2.24
 
 NEW IN VERSION V4.30                                            
@@ -39,3 +39,6 @@ Please note that this program also includes autocollect now, added in the V4.3 u
 Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
 Enjoy effortless farming!
+
+// 7.3.2024                         
+App still works in Growtopia V4.51
