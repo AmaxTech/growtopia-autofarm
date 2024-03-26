@@ -40,5 +40,5 @@ Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
 Enjoy effortless farming!
 
-// 24.3.2024                                    
+// 26.3.2024                                    
 App still works in Growtopia V4.51!
